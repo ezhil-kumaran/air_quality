@@ -1,4 +1,4 @@
-## 📸 Screenshots
+
 
 <table>
 <tr>
@@ -20,6 +20,11 @@ A Flutter-based mobile and web application that displays real-time air quality d
   </td>
 </tr>
 </table>
+📥 Download
+
+You can download the latest Android APK here:  
+[⬇️ Download app-arm64-v8a-release.apk](https://github.com/ezhil-kumaran/air_quality/blob/5f01c0a6877b93d2ed5596426f2f80cbc2787c65/app-arm64-v8a-release.apk)
+
 
 ```yaml
 dependencies:
